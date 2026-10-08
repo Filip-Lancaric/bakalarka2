@@ -4,4 +4,3 @@ Statický HTML/CSS prototyp bakalárskej práce zameraný na zber a prehľad zľ
 
 ## Technológie
 - HTML5
-- CSS3 / Bootstrap 5
