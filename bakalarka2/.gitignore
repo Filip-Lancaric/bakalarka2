@@ -1,0 +1,11 @@
+# OS súbory
+.DS_Store
+Thumbs.db
+
+# Editori a IDE
+.vscode/
+.idea/
+
+# Lokálne dáta alebo logy
+node_modules/
+*.log
